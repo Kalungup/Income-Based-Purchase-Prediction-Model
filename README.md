@@ -34,3 +34,6 @@ The model is suitable for capturing general trends but not for highly accurate p
 - Apply multiple linear regression
 - Improve feature selection
 - Test other machine learning models
+
+
+### NB: *The dataset was synthetically generated using AI with guided prompts to ensure realistic patterns for learning purposes only and does not represent real individuals or actual data.*
